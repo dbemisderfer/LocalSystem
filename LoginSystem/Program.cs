@@ -9,6 +9,9 @@ namespace LoginSystem
         static string userName;
         static string userPass;
 
+        // Just testing with Github
+        // Making first update
+
         public static string storeUsername()
         {
             Console.Write("Enter a username: ");
